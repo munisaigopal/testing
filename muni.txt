@@ -1,0 +1,2 @@
+hi this is muni first class in git 
+adding file into the git to github repository.
